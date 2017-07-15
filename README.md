@@ -33,7 +33,9 @@ Next, we compute the score for each author using the paper score.
 Ap - The author score is computed by averaging the scores of his published papers(Ap).
 
 Vp-The Venue score computation based on the papers published at the venue.
+
 Av - The author score obtained from averaging the scores of his published venues.
+
 Ar - The refined author score is obtained from averaging the scores of his published venues and the published papers.
 
 ![Alt text](https://github.com/Valentina9091/Article-Ranking-Using-Author-Venue-and-Citation-Information/blob/master/img/2.png "")
